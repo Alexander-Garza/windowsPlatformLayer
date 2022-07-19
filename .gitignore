@@ -2,3 +2,16 @@
 build/application.exe
 build/application.pdb
 build/windows.obj
+.vs/ProjectSettings.json
+.vs/slnx.sqlite
+.vs/VSWorkspaceState.json
+.vs/windowsPlatformLayer/v16/.suo
+.vs/windowsPlatformLayer/v16/Browse.VC.db
+build/.vs/application/v16/.suo
+build/.vs/application/v16/Browse.VC.db
+build/.vs/application/v16/Browse.VC.db-shm
+build/.vs/application/v16/Browse.VC.db-wal
+build/.vs/application/v16/Browse.VC.opendb
+build/.vs/application/v16/ipch/AutoPCH/2d257f5c64c79436/WINDOWS.ipch
+build/.vs/application/v16/ipch/AutoPCH/4aa14145c04fc77e/WINDOWS.ipch
+build/.vs/application/v16/ipch/AutoPCH/e28b04b35a09f1de/WINDOWS.ipch

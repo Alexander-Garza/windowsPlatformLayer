@@ -5,5 +5,5 @@ set LinkerFlags=-incremental:no -opt:ref -subsystem:windows shell32.lib user32.l
 
 IF NOT EXIST build mkdir build
 pushd build
-cl %CompilerFlags% /Fe:application.exe ..\windows.cpp  /link %LinkerFlags%  
+cl %CompilerFlags% /Fe:application.exe ..\windows.c /link %LinkerFlags%  
 popd
